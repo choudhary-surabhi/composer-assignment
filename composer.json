@@ -1,0 +1,14 @@
+{
+    "name": "firstcode/composer-world",
+    "description": "this is my first composer code",
+    "type": "package",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Surabhi Choudhary",
+            "email": "schoudhary01@xento.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
