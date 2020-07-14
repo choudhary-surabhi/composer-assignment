@@ -3,7 +3,7 @@ namespace firstcode\Hello;
 
 class Hello
 {
-    public function say($toSay = "Nothing given")
+    public function display($toSay = "Nothing given")
     {
         return $toSay;
     }
