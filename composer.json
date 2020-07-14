@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "firstcode\\Hello\\": "src/"
+            "firstcode\\ComposerWorld\\": "src/"
         }
     }
 }
