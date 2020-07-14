@@ -1,5 +1,5 @@
 <?php
-namespace firstcode\Hello;
+namespace firstcode\ComposerWorld;
 
 class Hello
 {
